@@ -1,0 +1,135 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/ethnicity-group---primary.py
+inputModule3:
+  class: File
+  path: python/ethnicity---primary.py
+inputModule4:
+  class: File
+  path: python/patient-ethnicity---primary.py
+inputModule5:
+  class: File
+  path: python/minor-ethnicity---primary.py
+inputModule6:
+  class: File
+  path: python/white-ethnicity---primary.py
+inputModule7:
+  class: File
+  path: python/ethnicity-british---primary.py
+inputModule8:
+  class: File
+  path: python/mixed-ethnicity---primary.py
+inputModule9:
+  class: File
+  path: python/other-ethnicity---primary.py
+inputModule10:
+  class: File
+  path: python/black-ethnicity---primary.py
+inputModule11:
+  class: File
+  path: python/ethnicity-asian---primary.py
+inputModule12:
+  class: File
+  path: python/ethnicity-zealand---primary.py
+inputModule13:
+  class: File
+  path: python/ethnicity-european---primary.py
+inputModule14:
+  class: File
+  path: python/ethnicity-pakeha---primary.py
+inputModule15:
+  class: File
+  path: python/ethnicity-maori---primary.py
+inputModule16:
+  class: File
+  path: python/ethnicity-samoan---primary.py
+inputModule17:
+  class: File
+  path: python/ethnicity-tongan---primary.py
+inputModule18:
+  class: File
+  path: python/ethnicity-niuean---primary.py
+inputModule19:
+  class: File
+  path: python/ethnicity-tokelauan---primary.py
+inputModule20:
+  class: File
+  path: python/ethnicity-fijian---primary.py
+inputModule21:
+  class: File
+  path: python/south-ethnicity---primary.py
+inputModule22:
+  class: File
+  path: python/ethnicity-chinese---primary.py
+inputModule23:
+  class: File
+  path: python/ethnicity-indian---primary.py
+inputModule24:
+  class: File
+  path: python/gypsy-ethnicity---primary.py
+inputModule25:
+  class: File
+  path: python/ethnicity-yemeni---primary.py
+inputModule26:
+  class: File
+  path: python/ethnicity-romanian---primary.py
+inputModule27:
+  class: File
+  path: python/ethnicity-bulgarian---primary.py
+inputModule28:
+  class: File
+  path: python/ethnicity-czech---primary.py
+inputModule29:
+  class: File
+  path: python/ethnicity-slovak---primary.py
+inputModule30:
+  class: File
+  path: python/ethnicity-portuguese---primary.py
+inputModule31:
+  class: File
+  path: python/ethnicity-nepali---primary.py
+inputModule32:
+  class: File
+  path: python/ethnicity-category---primary.py
+inputModule33:
+  class: File
+  path: python/ethnicity-irish---primary.py
+inputModule34:
+  class: File
+  path: python/ethnicity-background---primary.py
+inputModule35:
+  class: File
+  path: python/ethnicity-cypriot---primary.py
+inputModule36:
+  class: File
+  path: python/ethnicity-greek---primary.py
+inputModule37:
+  class: File
+  path: python/turkish-ethnicity---primary.py
+inputModule38:
+  class: File
+  path: python/ethnicity-traveller---primary.py
+inputModule39:
+  class: File
+  path: python/ethnicity-unspecified---primary.py
+inputModule40:
+  class: File
+  path: python/ethnicity-caribbean---primary.py
+inputModule41:
+  class: File
+  path: python/ethnicity-african---primary.py
+inputModule42:
+  class: File
+  path: python/ethnicity-pakistani---primary.py
+inputModule43:
+  class: File
+  path: python/ethnicity-american---primary.py
+inputModule44:
+  class: File
+  path: python/ethnicity-brazilian---primary.py
+inputModule45:
+  class: File
+  path: python/output-cases.py
